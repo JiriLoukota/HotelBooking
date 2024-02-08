@@ -1,5 +1,7 @@
 # Hotel Booking
-## Software for booking in hotel
+## Booking software for hotel.
 
--ab
--cd
+### Tento software umožňuje ukládat informace o:
+-hostech
+-pokojích
+-jejich rezervacích
