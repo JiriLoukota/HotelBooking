@@ -6,4 +6,6 @@
 
 -pokojích
 
--jejich rezervacích
+-jednotlivých rezervacích
+
+Software také obsahuje testovací data.
